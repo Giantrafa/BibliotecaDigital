@@ -1,3 +1,3 @@
 public interface Exibivel {
-    String exibirResumo();    
+    String exibirResumo();
 }
